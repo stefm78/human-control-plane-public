@@ -1,0 +1,12 @@
+# Exact public distribution allowlist V1
+README.md
+PUBLICATION_POLICY.md
+index.html
+styles.css
+.nojekyll
+publication/ALLOWLIST.txt
+scripts/validate-public-boundary.sh
+.github/workflows/publication.yml
+downloads/portable-kernel/0.4.0/StartKernel.md
+downloads/portable-kernel/0.4.0/QUALIFICATION.md
+downloads/portable-kernel/0.4.0/ADDED_VALUE_BENCHMARK_PROTOCOL.md
